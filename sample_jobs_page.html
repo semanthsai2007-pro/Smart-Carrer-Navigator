@@ -1,0 +1,30 @@
+<!-- sample_jobs_page.html
+     A local fixture demonstrating the exact HTML structure scraper.py expects.
+     Run: python -c "from scraper import scrape_jobs_from_html, save_scraped_jobs; html=open('sample_jobs_page.html').read(); save_scraped_jobs(scrape_jobs_from_html(html))"
+-->
+<html>
+<body>
+    <div class="job-card">
+        <h2 class="title">Cloud Engineer</h2>
+        <span class="company">SkyOps</span>
+        <span class="location">Remote</span>
+        <span class="salary">₹720000</span>
+        <ul class="skills">
+            <li>python</li>
+            <li>docker</li>
+            <li>sql</li>
+        </ul>
+    </div>
+    <div class="job-card">
+        <h2 class="title">Data Scientist</h2>
+        <span class="company">Insight Labs</span>
+        <span class="location">Bangalore</span>
+        <span class="salary">₹1100000</span>
+        <ul class="skills">
+            <li>python</li>
+            <li>pandas</li>
+            <li>machine learning</li>
+        </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+John Doe
+Aspiring Software Developer
+
+SKILLS:
+Proficient in Python and SQL, with hands-on experience in Django for backend development.
+Familiar with MySQL databases and basic Machine Learning concepts using TensorFlow and Pandas.
+Also comfortable with HTML, CSS and JavaScript for simple front-end tasks.
+
+EDUCATION:
+B.Tech in Computer Science Engineering, 2026
+
+EXPERIENCE:
+Summer Intern - Built a small Flask-based web app connected to a SQLite database.
