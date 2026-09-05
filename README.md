@@ -1,4 +1,4 @@
-# 🚀 Project Catalyst
+### 🚀 Project Catalyst
 ### AI-Powered Career & Skill Recommendation Platform
 
 A complete Python desktop application: register, upload a resume, get your
